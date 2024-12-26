@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Happy New Year Nidaa EK</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f8ff;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+        }
+        h1 {
+            font-size: 60px;
+            font-weight: bold;
+            color: #ff4500;
+            text-shadow: 2px 2px #ffa500;
+        }
+        .emoji {
+            font-size: 80px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Happy New Year Nidaa EK! 🎊</h1>
+        <p class="emoji">✨🥳🎆</p>
+    </div>
+</body>
+</html>
